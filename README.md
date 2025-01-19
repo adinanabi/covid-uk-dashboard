@@ -47,8 +47,25 @@ The notebook processes the fetched data to:
 
 ---
 ### Insights and Findings
+#### Key Visualizations and Analysis
+1. [**Time Series Analysis of COVID-19 Cases and Tests**](./screenshots/cases_vs_tests.png)
+2.**COVID-19 Case Statistics**
+3. [**Daily Percentage Change in Cases**](./screenshots/percentage_change.png)
+4. [**Significant Events Impact on COVID-19 Cases**](./screenshots/events.png)
 
 
+
+#### Pandemic Trajectory Analysis
+- **Initial Surge**: High case rates during early pandemic and winter periods
+- **Vaccination Impact**: Gradual decline in cases post-vaccination program
+- **Variant Challenges**: Noticeable changes during variant emergence periods
+
+#### Limitations and Considerations
+- Data represents rolling rates and may not capture absolute case numbers
+- Influenced by testing availability and reporting mechanisms
+- Reflects specific context of England's pandemic response
+
+---
 ### License
 This project is for educational purposes and is licensed under the [GNU GPLv3.0 or later.](./LICENSE).
 
