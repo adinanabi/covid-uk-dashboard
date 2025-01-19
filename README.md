@@ -46,10 +46,6 @@ The notebook processes the fetched data to:
 - Highlight trends over time.
 
 ---
-### Data Source
-UK COVID-19 API: Data is sourced directly from the UK Government's COVID-19 [Dashboard](https://ukhsa-dashboard.data.gov.uk).
-
-
 ### Insights and Findings
 
 
