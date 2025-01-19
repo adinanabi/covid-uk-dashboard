@@ -48,10 +48,10 @@ The notebook processes the fetched data to:
 ---
 ### Insights and Findings
 #### Key Visualizations and Analysis
-1. [**Time Series Analysis of COVID-19 Cases and Tests**](./screenshots/cases_vs_tests.png)
-2.**COVID-19 Case Statistics**
-3. [**Daily Percentage Change in Cases**](./screenshots/percentage_change.png)
-4. [**Significant Events Impact on COVID-19 Cases**](./screenshots/events.png)
+1. <img src="./screenshots/cases_vs_tests.png" alt="**Time Series Analysis of COVID-19 Cases and Tests**" width="500" height="auto">
+2. **COVID-19 Case Statistics**
+3. <img src="./screenshots/percentage_change.png" alt="**Daily Percentage Change in Cases**" width="500" height="auto">
+4.  <img src="./screenshots/events.png" alt="**Significant Events Impact on COVID-19 Cases**" width="500" height="auto">
 
 
 
