@@ -54,7 +54,7 @@ UK COVID-19 API: Data is sourced directly from the UK Government's COVID-19 [Das
 
 
 ### License
-
+This project is for educational purposes and is licensed under the [GNU GPLv3.0 or later.](./LICENSE).
 
 
 
