@@ -30,15 +30,6 @@ The COVID-19 UK Dashboard focuses on analyzing key metrics, including new cases 
 3. The notebook fetches data from the UK COVID-19 API. If the API is unavailable, it will use the included [covid data](./timeseries.json) file as a fallback.
 
 ---
-### Key Components
-***API Access Function***. The following function retrieves COVID-19 data for England.
-- Filters data for England at the national level.
-- Structures the output to include:
-   - Dates of reported data.
-   - Rolling rates of new cases and reinfections.
-- Returns the data in JSON format for further analysis.
-
----
 ### Data Analysis
 The notebook processes the fetched data to:
 - Clean and transform it into a structured format (e.g., Pandas DataFrame).
