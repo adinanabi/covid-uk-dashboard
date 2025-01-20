@@ -39,10 +39,26 @@ The notebook processes the fetched data to:
 ---
 ### Insights and Findings
 #### Key Visualizations and Analysis
-1. <img src="./screenshots/cases_vs_tests.png" alt="**Time Series Analysis of COVID-19 Cases and Tests**" width="500" height="auto">
-2. **COVID-19 Case Statistics**
-3. <img src="./screenshots/percentage_change.png" alt="**Daily Percentage Change in Cases**" width="500" height="auto">
-4.  <img src="./screenshots/events.png" alt="**Significant Events Impact on COVID-19 Cases**" width="500" height="auto">
+1. ***Time Series Analysis of COVID-19 Cases and Tests***
+   
+<img src="./screenshots/cases_vs_tests.png" alt="**Time Series Analysis of COVID-19 Cases and Tests**" width="500" height="auto">
+
+2. ***COVID-19 Case Statistics***
+
+| Metric | Value |
+| :--- | :--- |
+| Total Cases |260,056 |
+| Peak Daily Cases | 2,204 on 2022-01-04 |
+| Current Daily Cases | 7 |
+| Current 7-Day Average | 7.07 |
+
+3. ***Daily Percentage Change in Cases***
+
+<img src="./screenshots/percentage_change.png" alt="**Daily Percentage Change in Cases**" width="500" height="auto">
+
+4. ***Significant Events Impact on COVID-19 Cases***
+
+<img src="./screenshots/events.png" alt="**Significant Events Impact on COVID-19 Cases**" width="500" height="auto">
 
 
 
